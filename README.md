@@ -82,6 +82,7 @@ This project is licensed under the MIT License. See the LICENSE file for details
 ---
 
 ## Author
-Developed by Jeel Sonani.
+Developed by  Vivek Chanchlani
+
 
 
